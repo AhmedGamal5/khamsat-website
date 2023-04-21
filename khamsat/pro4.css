@@ -1,0 +1,258 @@
+header {
+  display: flex;
+  justify-content: space-between;
+}
+.bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+  background-color: #444;
+  font-size: 16px;
+  z-index: 200;
+}
+.barleft {
+  display: flex;
+  justify-content: start;
+  margin-top: 20px;
+  margin-left: 60px;
+}
+.fa {
+  color: #f1f1f1;
+  margin-left: 30px;
+}
+
+.barright {
+  display: flex;
+  justify-content: end;
+  margin-top: 20px;
+  margin-right: 60px;
+}
+.textl {
+  color: #f1f1f1;
+}
+.br {
+  display: flex;
+  margin-right: 30px;
+}
+
+h1 {
+  color: rgb(31, 30, 30);
+  display: flex;
+  justify-content: center;
+}
+
+.sec1 {
+  display: flex;
+  justify-content: space-around;
+}
+.d1 {
+  display: flex;
+  justify-content: center;
+  border: 0px solid;
+  background-image: url("تدريب عن بعد.jpg");
+  height: 200px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 0 0 70px;
+}
+.d11 {
+  text-align: center;
+  padding: 70px 10px 0 0;
+  text-shadow: 1px 1px #000000;
+  font-size: 25px;
+}
+
+.d2 {
+  border: 0 solid;
+  background-image: url("التسويق الالكتروني.jpg");
+  height: 200px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 0 0 70px;
+}
+
+.d3 {
+  border: 0 solid;
+  background-image: url("برمجه وتطوير.jpg");
+  height: 200px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 0 0 70px;
+}
+
+.d4 {
+  border: 0 solid;
+  background-image: url("اعمال.jpg");
+  height: 200px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 50px 0 70px;
+}
+
+.sec2 {
+  display: flex;
+  margin: 20px 0 0 0;
+  justify-content: space-around;
+}
+.dd1 {
+  border: 0 solid;
+  background-image: url("كتابة وترجمة.jpg");
+  height: 200px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 0 0 70px;
+}
+
+.dd2 {
+  border: 0 solid;
+  background-image: url("صوتيات.jpg");
+  height: 200px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 0 0 70px;
+}
+
+.dd3 {
+  border: 0 solid;
+  background-image: url("تصميم.jpg");
+  height: 200px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 0 0 70px;
+}
+
+.dd4 {
+  border: 0 solid;
+  background-image: url("تصميم فيديو.jpg");
+  height: 200px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 50px 0 70px;
+}
+
+.sec3 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.button1 {
+  background-color: white;
+  border: 1px solid #4caf50;
+  color: #4caf50;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 10px 70px;
+}
+.button2 {
+  background-color: white;
+  color: #1b1c1d;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 25px;
+  margin: 10px 30px;
+}
+
+.sec4 {
+  display: flex;
+  justify-content: space-around;
+  margin: 50px;
+}
+
+.imga {
+  border: 0 solid red;
+  padding-left: 20px;
+  position: relative;
+}
+.para {
+  display: flex;
+  justify-content: end;
+}
+.lphp {
+  opacity: 0.8;
+  display: flex;
+  justify-content: end;
+}
+.fa {
+  color: orange;
+  display: flex;
+  justify-content: end;
+}
+.lphp0 {
+  display: flex;
+  justify-content: end;
+}
+.im {
+  color: #4caf50;
+  font-size: large;
+  font-style: normal;
+}
+.im2 {
+  color: #1a1616;
+  font-weight: 300;
+}
+
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+  width: 10px;
+  height: 10px;
+  padding: 10px;
+}
+.fa-twitter {
+  background: #55acee;
+  color: white;
+  width: 10px;
+  height: 10px;
+  padding: 10px;
+}
+.para1 {
+  color: rgb(80, 72, 72);
+}
+.sec5 {
+  overflow: hidden;
+  background: #f1f1f1;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.er {
+  color: #222222;
+  display: flex;
+}
+.err {
+  color: #222222;
+  margin-right: 10px;
+}
+.hasob {
+  display: flex;
+  justify-content: center;
+}
+.foot {
+  display: flex;
+  justify-content: end;
+}
+.ana {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 30px;
+}
+.ana2 {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 30px;
+  opacity: 0.8;
+  font-size: small;
+}
